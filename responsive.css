@@ -1,0 +1,354 @@
+@media only screen and (max-width:1240px) {
+    .aim-section img {
+        width: 630px !important;
+        height: 400px !important;
+    }
+
+    .aim-information {
+        margin-top: -50px !important;
+    }
+
+    .ai-section img {
+        width: 630px !important;
+        height: 400px !important;
+    }
+
+    .ai-information {
+        margin-top: -50px !important;
+    }
+
+    .talent-section img {
+        width: 630px !important;
+        height: 400px !important;
+    }
+
+    .talent-information {
+        position: relative;
+        top: -40px !important;
+    }
+
+    .carousel-information p {
+        margin-top: -50px !important;
+    }
+
+}
+
+@media only screen and (max-width:1115px) {
+    .carousel-item>img {
+        height: 550px !important;
+
+    }
+
+    .carousel-item {
+        margin-bottom: -80px !important;
+    }
+
+    .aim-section img {
+        width: 560px !important;
+        height: 350px !important;
+    }
+
+    .aim-information {
+        margin-top: -90px !important;
+    }
+
+    .ai-section img {
+        width: 560px !important;
+        height: 350px !important;
+    }
+
+    .ai-information {
+        margin-top: -50px !important;
+    }
+
+    .talent-section img {
+        width: 560px !important;
+        height: 350px !important;
+    }
+
+    .talent-information {
+        position: relative;
+        top: -70px !important;
+    }
+
+    .carousel-information p {
+        margin-top: -80px !important;
+    }
+
+    .carousel-information img {
+        width: 450px !important;
+        height: 250px !important;
+    }
+}
+
+@media only screen and (max-width:996px) {
+    nav {
+        display: none;
+    }
+
+    .first-section {
+        height: 580px !important;
+    }
+
+    .dropdown {
+        visibility: visible;
+    }
+
+    .dropdown-toggle {
+        width: 60px !important;
+        padding: 0px !important;
+    }
+
+    .carousel-item {
+        margin-bottom: -120px !important;
+    }
+
+    .ai-section {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .ai-section img {
+        height: 95% !important;
+        width: 90% !important;
+    }
+
+    .aim-section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .aim-section img {
+        height: 95% !important;
+        width: 90% !important;
+        margin-left: 35px;
+    }
+
+    .aim-information {
+        margin-top: -20px !important;
+    }
+
+    .talent-section {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .talent-section img {
+        height: 95% !important;
+        width: 90% !important;
+        margin-left: 20px !important;
+    }
+
+    .follow img {
+        width: 40px !important;
+    }
+}
+
+@media only screen and (max-width:940px) {
+    .subscribe {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .subfooter {
+        margin-left: -50px !important;
+    }
+
+    .follow>li {
+        padding-right: 0px !important;
+    }
+}
+
+@media only screen and (max-width:797px) {
+    .carousel-item>img {
+        height: 400px !important;
+
+    }
+
+    .first-section {
+        height: 500px !important;
+    }
+
+    .card-information {
+        text-align: left;
+    }
+
+    .carousel-item {
+        margin-bottom: -180px !important;
+    }
+
+    .main-information {
+        margin-top: 50px !important;
+    }
+
+    .companies-section>h1 {
+        font-size: 30px;
+    }
+
+    .carousel-information {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .carousel-information p {
+        padding-top: 90px !important;
+    }
+
+    .carousel-information img {
+        width: 90% !important;
+        height: 95% !important;
+    }
+
+    .subfooter {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+}
+
+@media only screen and (max-width:640px) {
+    .logo {
+        margin-left: -40px !important;
+        margin-top: -10px !important;
+    }
+
+    .main-information {
+        font-size: 25px;
+    }
+
+    .carousel-item>img {
+        height: 360px !important;
+    }
+
+    .carousel-item {
+        margin-bottom: -200px !important;
+    }
+
+    .carousel-information p {
+        padding-top: 90px !important;
+    }
+
+    .subscribe {
+        flex-direction: column;
+    }
+
+}
+
+@media only screen and (max-width:560px) {
+    .logo {
+        margin-left: -50px !important;
+    }
+
+
+    .dropdown-toggle {
+        margin-top: -80px !important;
+    }
+
+    .carousel-item>img {
+        height: 300px !important;
+    }
+
+    .carousel-item {
+        margin-bottom: -240px !important;
+    }
+
+    .carousel-information>p {
+        font-size: 23px !important;
+    }
+
+    .ai-information,
+    .aim-information {
+        font-size: 23px !important;
+    }
+
+    .card-information {
+        font-size: 20px !important;
+        margin-top: -40px !important;
+    }
+
+    .talent-information>h1 {
+        font-size: 28px !important;
+        margin-top: -50px;
+    }
+
+    .footer-section {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .about {
+        padding-bottom: 50px;
+    }
+
+    .categories {
+        padding-bottom: 50px;
+    }
+
+    .support {
+        padding-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width:465px) {
+    .services {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .logo>img {
+        height: 90px !important;
+        margin-top: 15px !important;
+    }
+
+    .logo span {
+        font-size: 23px;
+    }
+
+    .dropdown-toggle {
+        margin-top: -60px !important;
+
+    }
+
+    .aim-section img {
+        margin-left: 10px !important;
+    }
+}
+
+@media only screen and (max-width:400px) {
+    .companies-images {
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .companies-section h1 {
+        font-size: 25px !important;
+        font-weight: normal;
+    }
+
+    .dropdown-toggle {
+        width: 40px !important;
+        margin-right: -10px !important;
+    }
+
+    .logo>img {
+        height: 80px !important;
+        margin-top: 18px !important;
+    }
+
+    .logo span {
+        font-size: 21px;
+    }
+
+    .main-information {
+        margin-left: 0px !important;
+    }
+
+    .first-section {
+        height: 470px !important;
+    }
+}
