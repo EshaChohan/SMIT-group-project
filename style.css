@@ -22,16 +22,27 @@ body {
 .dropdown {
     visibility: hidden;
 }
+.dropdown-menu {
+    width: 100%;
+    text-align: center !important;
+    height: max-content;
 
+}
+.dropdown-menu button {
+    font-size: 120% !important;
+    padding:2% 0% !important;
+}
+.dropdown-item {
+    font-size: 160%;
+    padding:2% 0% !important;
+}
 .dropdown-toggle {
     float: right;
     margin-top: -80px;
 }
-
 .dropdown-item:active {
     background-color: black !important;
 }
-
 nav {
     font-size: 20px;
     margin-top: -80px;
